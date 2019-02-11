@@ -1,0 +1,28 @@
+#heading {
+    background-color: lightblue;
+    width: 20%;
+}
+#main {
+    background-color: red;
+    width: 40%;
+}
+#random-number {
+    background-color: lightblue;
+    font-size: 2em;
+    width: 20%;
+}
+#wins-losses {
+    background-color: red;
+}
+#user-score {
+    background-color: green;
+    font-size: 2em;
+    width: 20%;
+}
+body {
+    height: 100%
+    background-image: url("assets/images/morocco-blue.png");
+}
+#crystal-images {
+    clear: both;
+}
